@@ -17,11 +17,10 @@ This repository contains a computational analysis of the structural conservation
 ## Summary
 The analysis reveals strong conservation in CTLA-4’s Ig-like V-type domain across vertebrates, supporting its evolutionary importance in immune checkpoint regulation. Conserved residues suggest functional relevance for ligand binding and immune modulation, with implications in cancer immunotherapy and autoimmune disease research.
 
+---
 
 <div align="right" style="font-size:16px; color:black; font-family:Segoe UI, sans-serif;">
 Developed by Joudy Allam, Nour Saad, and Lea Kassem
     
 As part of the *Introduction to Bioinformatics* course, May 2023
 </div>
-
----
